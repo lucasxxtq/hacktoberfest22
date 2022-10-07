@@ -1,0 +1,10 @@
+/* ***Barra de navegação horizontal** */
+
+ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    width: 720px;
+    background: #159cb0 url(D:\CursoWeb\MenuHorizontal\img\fundo-horizontal.png);
+
+}
