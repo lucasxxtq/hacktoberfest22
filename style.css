@@ -8,3 +8,24 @@ ul{
     background: #159cb0 url(D:\CursoWeb\MenuHorizontal\img\fundo-horizontal.png);
 
 }
+
+ul li{
+    position: relative;
+    padding: 10px;
+    justify-content: space-between;
+    background-color: black;
+    display:flex;
+}
+
+ul li a{
+    text-align: center;
+    color: white;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 20px;
+}
+
+ul li a:hover{
+    color: black;
+    background-color: white;
+}
